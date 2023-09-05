@@ -1,6 +1,6 @@
 # SEIR 0911EC
 
-<img src ="./assets/Weather1.jpeg>
+<img src ="./assets/Weather1.jpeg">
 
 
 ### Open Weather API
